@@ -12,3 +12,4 @@ Generating random IP addresses, it tests the connection ports you input on the I
 
 3. HTTP Server Creation
 Create a basic TCP HTTP server using a specified IP address and port. This server supports HTTP methods like GET, POST, and DELETE, allowing you to quickly set up a basic web server for testing and development purposes.
+# [Show Politics](https://github.com/aertsimon90/politics/blob/main/README.md)
